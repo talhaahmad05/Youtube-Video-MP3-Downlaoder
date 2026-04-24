@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer output
+InstallerOutput/
+
+# Virtual environments
+venv/
+ENV/
+
+# Executables
+*.exe
+
+# Large binaries (FFmpeg)
+ffmpeg/
+
+# Spec files (optional, but usually kept)
+# YouTubeDownloader.spec
